@@ -1,0 +1,94 @@
+============================================================
+SALES ANALYTICS REPORT
+Generated: 2026-01-19 09:28:13
+Records Processed: 18
+============================================================
+
+OVERALL SUMMARY
+------------------------------------------------------------
+Total Revenue: Rs. 269,633.00
+Total Transactions: 18
+Average Order Value: Rs. 14,979.61
+Date Range: 2024-12-02 to 2024-12-27
+
+REGION-WISE PERFORMANCE
+------------------------------------------------------------
+Region          Sales                % of Total      Transactions   
+------------------------------------------------------------
+North           Rs. 269,633.00       100.00%         18             
+
+TOP 5 PRODUCTS BY QUANTITY SOLD
+------------------------------------------------------------
+Rank     Product Name              Quantity     Revenue        
+------------------------------------------------------------
+1        Wireless Mouse            19           Rs. 19,934.00  
+2        Mouse                     12           Rs. 9,450.00   
+3        Headphones                10           Rs. 50,029.00  
+4        External Hard Drive       9            Rs. 34,218.00  
+5        External Hard Drive1TB    9            Rs. 78,867.00  
+
+TOP 5 CUSTOMERS BY SPENDING
+------------------------------------------------------------
+Rank     Customer ID     Total Spent          Order Count 
+------------------------------------------------------------
+1        C010            Rs. 78,867.00        1           
+2        C028            Rs. 48,359.00        2           
+3        C002            Rs. 34,218.00        1           
+4        C019            Rs. 32,134.00        1           
+5        C011            Rs. 24,144.00        3           
+
+DAILY SALES TREND
+------------------------------------------------------------
+Date            Revenue              Transactions    Unique Customers
+------------------------------------------------------------
+2024-12-02      Rs. 6,958.00         1               1         
+2024-12-05      Rs. 257.00           1               1         
+2024-12-08      Rs. 4,710.00         2               2         
+2024-12-09      Rs. 22,285.00        3               3         
+2024-12-10      Rs. 1,550.00         1               1         
+2024-12-13      Rs. 32,134.00        1               1         
+2024-12-14      Rs. 33,775.00        1               1         
+2024-12-18      Rs. 10,820.00        1               1         
+2024-12-22      Rs. 13,360.00        1               1         
+2024-12-23      Rs. 768.00           1               1         
+2024-12-25      Rs. 29,931.00        3               3         
+2024-12-26      Rs. 34,218.00        1               1         
+2024-12-27      Rs. 78,867.00        1               1         
+
+PRODUCT PERFORMANCE ANALYSIS
+------------------------------------------------------------
+Best Selling Day: 2024-12-27 with Rs. 78,867.00 revenue (1 transactions)
+
+Low Performing Products (< 10 units sold):
+Product Name              Quantity     Revenue        
+Webcam                    1            Rs. 2,986.00   
+USB Cable                 1            Rs. 257.00     
+MonitorLED                2            Rs. 32,134.00  
+Laptop Charger            5            Rs. 13,814.00  
+KeyboardMechanical        5            Rs. 13,360.00  
+Keyboard                  8            Rs. 14,584.00  
+External Hard Drive       9            Rs. 34,218.00  
+External Hard Drive1TB    9            Rs. 78,867.00  
+
+Average Transaction Value Per Region:
+  North: Rs. 14,979.61
+
+API ENRICHMENT SUMMARY
+------------------------------------------------------------
+Total Products Enriched: 0 / 18
+Success Rate: 0.00%
+
+Products Not Matched with API Data:
+  - P102
+  - P103
+  - P104
+  - P105
+  - P106
+  - P107
+  - P108
+  - P109
+  - P110
+
+============================================================
+END OF REPORT
+============================================================
