@@ -1,11 +1,12 @@
 # Sales Analytics System
 
 **Student Name:** Parameswaran Sivaramakrishnan
+
 **Student ID:** bitsom_ba_25071771
+
 **Email:** s.param.iyer@gmail.com
-**Date:** 18th January 2026
-**Course:** Business Analytics with Generative & Agentic AI
-**Module:** Module 3: Python Programming
+
+**Date:** 19th January 2026
 
 ---
 
