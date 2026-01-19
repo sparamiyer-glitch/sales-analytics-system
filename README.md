@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-A comprehensive Python application that processes sales transaction data, performs sophisticated analysis across multiple dimensions, and generates detailed reports. The system handles data quality issues through validation and cleaning, integrates with external APIs for product enrichment, and provides interactive filtering capabilities for targeted analysis. Built as part of the Masai School Module 3 assignment to demonstrate proficiency in file handling, data structures, API integration, and application architecture.
+A comprehensive Python application that processes sales transaction data, performs sophisticated analysis across multiple dimensions, and generates detailed reports. The system handles data quality issues through validation and cleaning, integrates with external APIs for product enrichment, and provides interactive filtering capabilities for targeted analysis. Built as part of the Module 3 assignment to demonstrate proficiency in file handling, data structures, API integration, and application architecture.
 
 ---
 
